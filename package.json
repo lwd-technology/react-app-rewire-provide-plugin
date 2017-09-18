@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icopp/react-app-rewire-typescript.git"
+    "url": "git+https://github.com/icopp/react-app-rewire-provide-plugin.git"
   },
   "keywords": ["webpack", "react-app-rewired"],
   "author": "Ian Copp <copp.ian@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/icopp/react-app-rewire-typescript/issues"
+    "url": "https://github.com/icopp/react-app-rewire-provide-plugin/issues"
   },
-  "homepage": "https://github.com/icopp/react-app-rewire-typescript#readme",
+  "homepage": "https://github.com/icopp/react-app-rewire-provide-plugin#readme",
   "devDependencies": {
     "eslint": "^4.7.0",
     "eslint-config-prettier": "^2.5.0",
