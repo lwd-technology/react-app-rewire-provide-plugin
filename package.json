@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Add webpack.ProvidePlugin to a react-app-rewired config.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "precommit": "lint-staged"
   },
@@ -12,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icopp/react-app-rewire-provide-plugin.git"
+    "url": "git+https://github.com/lwd-technology/react-app-rewire-provide-plugin.git"
   },
   "keywords": ["webpack", "react-app-rewired"],
-  "author": "Ian Copp <copp.ian@gmail.com>",
+  "author": "Ian Copp <ian@wolflair.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/icopp/react-app-rewire-provide-plugin/issues"
+    "url": "https://github.com/lwd-technology/react-app-rewire-provide-plugin/issues"
   },
-  "homepage": "https://github.com/icopp/react-app-rewire-provide-plugin#readme",
+  "homepage": "https://github.com/lwd-technology/react-app-rewire-provide-plugin#readme",
   "devDependencies": {
     "eslint": "^4.7.0",
     "eslint-config-prettier": "^2.5.0",
